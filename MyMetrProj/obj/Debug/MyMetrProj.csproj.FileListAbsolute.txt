@@ -1,0 +1,27 @@
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\bin\Debug\MyMetrProj.exe.config
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\bin\Debug\MyMetrProj.exe
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\bin\Debug\MyMetrProj.pdb
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.Form1.resources
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.csproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.exe
+C:\Users\Nathaniel\Desktop\From C++\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.pdb
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\bin\Debug\MyMetrProj.exe.config
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.exe
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.pdb
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\bin\Debug\MyMetrProj.exe
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\bin\Debug\MyMetrProj.pdb
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.From1.resources
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\MyMetrProj\MyMetrProj\obj\Debug\MyMetrProj.csproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\bin\Debug\MyMetrProj.exe.config
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\obj\Debug\MyMetrProj.exe
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\obj\Debug\MyMetrProj.pdb
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\bin\Debug\MyMetrProj.exe
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\bin\Debug\MyMetrProj.pdb
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\obj\Debug\MyMetrProj.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\obj\Debug\MyMetrProj.From1.resources
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\obj\Debug\MyMetrProj.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\КР летняя сессия 2017\Нейронные сети\Метрики\MyMetrProj\obj\Debug\MyMetrProj.csproj.GenerateResource.Cache
